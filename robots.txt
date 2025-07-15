@@ -156,4 +156,3 @@ Sitemap: https://www.stackgui.de/sitemap.xml
 #
 # Vérification recommandée : Tester avec Google Search Console
 # et surveiller les logs d'accès pour s'assurer du respect des directives
-# TEST JUILLET
